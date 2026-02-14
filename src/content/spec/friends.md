@@ -10,8 +10,8 @@ description: "与优秀的朋友们一起成长"
 申请友链前请先在自己网站添加本站友链，请使用以下信息：
 
 ```yaml
-站点名称: rice-awa的博客
-站点描述: 飞萤之火自无梦的长夜亮起，绽放在终竟的明天。
+站点名称: Rice-awa's blog
+站点描述: 热爱编程，探索技术，分享知识。
 站点链接: https://blog.rice-awa.top
 头像链接: https://avatars.githubusercontent.com/u/141110807?v=4&size=64
 

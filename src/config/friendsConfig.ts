@@ -11,6 +11,15 @@ export const friendsPageConfig: FriendsPageConfig = {
 // 友链配置
 export const friendsConfig: FriendLink[] = [
 	{
+		title: "明月清风的博客",
+		imgurl: "https://blog.070219.xyz/assets/images/firefly.jpg",
+		desc: "爱整活，爱生活，这里是明月清风的个人博客。",
+		siteurl: "https://blog.070219.xyz",
+		tags: ["Blog"],
+		weight: 11, // 权重，数字越大排序越靠前
+		enabled: true, // 是否启用
+	},
+	{
 		title: "夏夜流萤",
 		imgurl: "https://q1.qlogo.cn/g?b=qq&nk=7618557&s=640",
 		desc: "飞萤之火自无梦的长夜亮起，绽放在终竟的明天。",
