@@ -12,7 +12,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	// 3. 远程 URL："https://example.com/banner.jpg"
 	src: {
 		// 桌面背景图片
-		desktop: "assets/images/d1.webp",
+		desktop: "assets/images/d1.jpg",
 		// 移动背景图片
 		mobile: "assets/images/m2.jpg",
 	},
