@@ -12,9 +12,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	// 3. 远程 URL："https://example.com/banner.jpg"
 	src: {
 		// 桌面背景图片
-		desktop: "assets/images/纳西妲1.webp",
+		desktop: "assets/images/d1.webp",
 		// 移动背景图片
-		mobile: "assets/images/纳西妲2.jpg",
+		mobile: "assets/images/m2.jpg",
 	},
 	// Banner模式特有配置
 	banner: {
