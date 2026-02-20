@@ -12,9 +12,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	// 3. 远程 URL："https://example.com/banner.jpg"
 	src: {
 		// 桌面背景图片
-		desktop: "assets/images/d1.webp",
+		desktop: "assets/images/纳西妲1.webp",
 		// 移动背景图片
-		mobile: "assets/images/m1.webp",
+		mobile: "assets/images/纳西妲2.jpg",
 	},
 	// Banner模式特有配置
 	banner: {
@@ -65,15 +65,15 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			},
 			text: {
 				// 桌面端要显示的来源文本
-				desktop: "Pixiv - 晚晚喵",
+				desktop: "Pixiv - 眠",
 				// 移动端要显示的来源文本
-				mobile: "Pixiv - KiraraShss",
+				mobile: "Pixiv - 砂糖",
 			},
 			url: {
 				// 桌面端原始艺术品或艺术家页面的 URL 链接
-				desktop: "https://www.pixiv.net/artworks/135490046",
+				desktop: "https://www.pixiv.net/artworks/141116980",
 				// 移动端原始艺术品或艺术家页面的 URL 链接
-				mobile: "https://www.pixiv.net/users/42715864",
+				mobile: "https://www.pixiv.net/artworks/141379720",
 			},
 		},
 		// 横幅导航栏配置
@@ -81,7 +81,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 横幅导航栏透明模式："semi" 半透明，"full" 完全透明，"semifull" 动态透明
 			transparentMode: "semifull",
 			// 是否开启毛玻璃模糊效果，开启可能会影响页面性能，如果不开启则是半透明，请根据自己的喜好开启
-			enableBlur: true,
+			enableBlur: false,
 			// 毛玻璃模糊度
 			blur: 3,
 		},
